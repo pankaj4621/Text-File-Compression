@@ -25,7 +25,11 @@ Step1: Convert the data of the output file into their unicodes.<br>
 Step2: Convert all the unicodes into binary numbers.<br>
 Step3: Remove padding that we did while compressing the file.<br>
 Step4: Decode the binary numbers into the chracters based on the dictionary containing key value pair.<br>
-Step5: Now, write the final text into the output file of .txt extension.<br>
+Step5: Now, write the final text into the output file of .txt extension.<br><br><br>
+
+<h3>Output of the above program. <br></h3>
+
+<img src="output_image.png" alt="output_image">
 
 
 
